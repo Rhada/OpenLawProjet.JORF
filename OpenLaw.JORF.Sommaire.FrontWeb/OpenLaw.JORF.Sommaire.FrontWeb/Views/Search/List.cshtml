@@ -1,0 +1,8 @@
+﻿@model Splayce.JORF.Business.ResultBox
+@{
+    ViewBag.Title = "Résultat de la recherche";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("~/Views/Shared/_Header.cshtml")
+@Html.Partial("~/Views/Shared/_List.cshtml", Model.JorfTexts)

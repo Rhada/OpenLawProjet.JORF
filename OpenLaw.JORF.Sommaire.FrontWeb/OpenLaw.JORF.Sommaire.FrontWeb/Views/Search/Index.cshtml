@@ -1,0 +1,54 @@
+﻿@model Splayce.JORF.Business.ResultBox
+@{
+    ViewBag.Title = "Résultat de la recherche";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("~/Views/Shared/_Header.cshtml")
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <div class="row">
+                        <div class="col-xs-11">
+                            @Html.Partial("~/Views/Shared/_Search.cshtml", (string)ViewBag.Sarde)
+
+                            <a href="#">Recherche avancée</a>
+                        </div>
+                        <div class="col-xs-1">
+                            <button class="btn btn-primary btn-block"><i class="fa fa-rss-square"></i>&nbsp;RSS</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-body">
+                    <strong>@Model.JorfTexts.Count texte(s)</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Html.Partial("~/Views/Shared/_Breadcrumbs.cshtml", (List<string>)ViewBag.SearchedTerms)
+
+
+    <div class="row">
+        <div class="col-xs-12 visible-xs">
+            @Html.Partial("~/Views/Shared/_Facets.cshtml", Model.Facets, new ViewDataDictionary { { "keyword", (string)ViewBag.KeyWord } })
+        </div>
+        <div class="col-xs-12 col-sm-8">
+            @Html.Partial("~/Views/Shared/_Result.cshtml", Model.JorfTexts)
+        </div>
+        <div class="col-sm-4 hidden-xs">
+            @Html.Partial("~/Views/Shared/_Facets.cshtml", Model.Facets, new ViewDataDictionary { { "keyword", (string)ViewBag.KeyWord } })
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            @Html.Partial("~/Views/Shared/_Footer.cshtml")
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000029837639</ID>
+<ID_ELI>http://www.legifrance.gouv.fr/eli/decret/2014/12/3/AFSS1424659D/jo/texte</ID_ELI>
+<ELI_ALIAS>
+<ID_ELI_ALIAS>http://www.legifrance.gouv.fr/eli/decret/2014/12/3/2014-1446/jo/texte</ID_ELI_ALIAS>
+</ELI_ALIAS>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/29/83/76/JORFTEXT000029837639.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000029837639</CID>
+<NUM>2014-1446</NUM>
+<NUM_SEQUENCE>32</NUM_SEQUENCE>
+<NOR>AFSS1424659D</NOR>
+<DATE_PUBLI>2014-12-05</DATE_PUBLI>
+<DATE_TEXTE>2014-12-03</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0281 du 5 décembre 2014</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>20295</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>20296</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>DÉCRET n°2014-1446 du 3 décembre 2014</TITRE>
+<TITREFULL>Décret n° 2014-1446 du 3 décembre 2014 portant modification du décret n° 49-580 du 22 avril 1949 relatif au régime d'assurance vieillesse complémentaire des pharmaciens</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE>Ministère des affaires sociales, de la santé et des droits des femmes</MINISTERE>
+<MCS_TXT/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000483996" datesignatexte="1949-04-22" id="JORFTEXT000000483996" naturetexte="DECRET" nortexte="" num="" numtexte="49-580" sens="source" typelien="CITATION">Décret n°49-580 du 22 avril 1949 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGITEXT000006073189" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. (V)</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Publics concernés : pharmaciens libéraux, Caisse nationale d'assurance vieillesse des pharmaciens.<br/>Objet : réforme du régime d'assurance vieillesse complémentaire des pharmaciens non salariés.<br/>Entrée en vigueur : le texte entre en vigueur au 1er juillet 2015.<br/>Notice : ce décret supprime les classes dites optionnelles dans le régime des pharmaciens : leurs cotisations d'assurance vieillesse seront désormais fixées en fonction de leurs revenus.<br/>Références : le décret modifié par le présent décret peut être consulté, dans sa rédaction issue du présent décret, sur le site Légifrance (http://www.legifrance.gouv.fr).<br/>Le Premier ministre,<br/>Sur le rapport du ministre des finances et des comptes publics, de la ministre des affaires sociales, de la santé et des droits des femmes et du secrétaire d'Etat chargé du budget,<br/>Vu le code de la sécurité sociale, notamment son article L. 644-1 ;<br/>Vu le décret n° 49-580 du 22 avril 1949 relatif au régime d'assurance vieillesse complémentaire des pharmaciens ;<br/>Vu l'avis du conseil d'administration de la Caisse nationale d'assurance vieillesse des professions libérales en date du 25 septembre 2014,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 3 décembre 2014.</p>
+</div>
+<div align="left">
+<p>Manuel Valls</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>La ministre des affaires sociales, de la santé et des droits des femmes,</p>
+<p>Marisol Touraine</p>
+</div>
+<div align="left">
+<p>Le ministre des finances et des comptes publics,</p>
+<p>Michel Sapin</p>
+</div>
+<div align="left">
+<p>Le secrétaire d'Etat chargé du budget,</p>
+<p>Christian Eckert</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+</TEXTE_VERSION>

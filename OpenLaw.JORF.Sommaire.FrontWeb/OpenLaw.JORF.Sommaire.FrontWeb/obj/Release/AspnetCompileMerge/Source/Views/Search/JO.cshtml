@@ -1,0 +1,32 @@
+﻿@model List<Splayce.JORF.Business.LienAction>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("~/Views/Shared/_Header.cshtml")
+<div class="container">
+
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h4 style="text-align:center">Articles modifiés par les textes publiés au JO du 17/08/2014, 2/10/2014 et 14/10/2014</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+
+            @Html.Partial("~/Views/Shared/_DetailledJO.cshtml", Model)
+        </div>
+    </div>
+
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @Html.Partial("~/Views/Shared/_Footer.cshtml")
+    </div>
+</div>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+  <META>
+    <META_COMMUN>
+      <ID>JORFTEXT000029837364</ID>
+      <ID_ELI>http://www.legifrance.gouv.fr/eli/decret/2014/12/4/PRMX1425447D/jo/texte</ID_ELI>
+      <ELI_ALIAS>
+        <ID_ELI_ALIAS>http://www.legifrance.gouv.fr/eli/decret/2014/12/4/2014-1439/jo/texte</ID_ELI_ALIAS>
+      </ELI_ALIAS>
+      <ANCIEN_ID/>
+      <ORIGINE>JORF</ORIGINE>
+      <URL>texte/version/JORF/TEXT/00/00/29/83/73/JORFTEXT000029837364.xml</URL>
+      <NATURE>DECRET</NATURE>
+    </META_COMMUN>
+    <META_SPEC>
+      <META_TEXTE_CHRONICLE>
+        <CID>JORFTEXT000029837364</CID>
+        <NUM>2014-1439</NUM>
+        <NUM_SEQUENCE>1</NUM_SEQUENCE>
+        <NOR>PRMX1425447D</NOR>
+        <DATE_PUBLI>2014-12-05</DATE_PUBLI>
+        <DATE_TEXTE>2014-12-04</DATE_TEXTE>
+        <ORIGINE_PUBLI>JORF n°0281 du 5 décembre 2014</ORIGINE_PUBLI>
+        <PAGE_DEB_PUBLI>20275</PAGE_DEB_PUBLI>
+        <PAGE_FIN_PUBLI>20275</PAGE_FIN_PUBLI>
+      </META_TEXTE_CHRONICLE>
+      <META_TEXTE_VERSION>
+
+
+        <TITRE>DÉCRET n°2014-1439 du 4 décembre 2014</TITRE>
+        <TITREFULL>Décret n° 2014-1439 du 4 décembre 2014 modifiant le décret n° 89-655 du 13 septembre 1989 modifié relatif aux cérémonies publiques, préséances, honneurs civils et militaires</TITREFULL>
+
+
+        <DATE_DEBUT/>
+        <DATE_FIN/>
+        <AUTORITE/>
+        <MINISTERE/>
+        <MCS_TXT/>
+        <LIENS>
+          <LIEN cidtexte="JORFTEXT000000332354" datesignatexte="1989-09-13" id="JORFTEXT000000332354" naturetexte="DECRET" nortexte="PRMX8900039D" num="" numtexte="89-655" sens="source" typelien="CITATION">Décret n°89-655 du 13 septembre 1989 (V)</LIEN>
+          <LIEN cidtexte="JORFTEXT000028056223" datesignatexte="2013-10-11" id="JORFTEXT000028056223" naturetexte="LOI_ORGANIQUE" nortexte="PRMX1309686L" num="" numtexte="2013-906" sens="source" typelien="CITATION">LOI organique n°2013-906  du 11 octobre 2013 (V)</LIEN>
+          <LIEN cidtexte="JORFTEXT000028056315" datesignatexte="2013-10-11" id="JORFTEXT000028056315" naturetexte="LOI" nortexte="PRMX1309699L" num="" numtexte="2013-907" sens="source" typelien="CITATION">LOI n°2013-907  du 11 octobre 2013 (V)</LIEN>
+        </LIENS>
+
+      </META_TEXTE_VERSION>
+    </META_SPEC>
+  </META>
+
+  <VISAS>
+    <CONTENU>
+      <p align="left">
+        <br/>Publics concernés : autorités qui assistent aux cérémonies publiques et qui les organisent.<br/>Objet : fixation du rang protocolaire du président de la Haute Autorité pour la transparence de la vie publique.<br/>Entrée en vigueur : le texte entre en vigueur le lendemain de sa publication.<br/>Notice : le décret a pour objet de prendre en compte, dans le décret relatif aux cérémonies publiques, préséances, honneurs civils et militaires, la création de la Haute Autorité de la transparence pour la vie publique.<br/>Références : le présent décret peut être consulté sur le site Légifrance (http://www.legifrance.gouv.fr).<br/>Le Président de la République,<br/>Sur le rapport du Premier ministre,<br/>Vu la loi organique n° 2013-906 du 11 octobre 2013 relative à la transparence de la vie publique ;<br/>Vu la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique ;<br/>Vu le décret n° 89-655 du 13 septembre 1989 modifié relatif aux cérémonies publiques, préséances, honneurs civils et militaires ;<br/>Le Conseil d'Etat (section de l'intérieur) entendu ;<br/>Le conseil des ministres entendu,<br/>Décrète :
+      </p>
+    </CONTENU>
+  </VISAS>
+  <SIGNATAIRES>
+    <CONTENU>
+      <div align="left">
+        <p>Fait le 4 décembre 2014.</p>
+      </div>
+      <div align="left">
+        <p>François Hollande</p>
+        <p>Par le Président de la République :</p>
+      </div>
+      <div align="left">
+        <p>Le Premier ministre,</p>
+        <p>Manuel Valls</p>
+      </div>
+    </CONTENU>
+  </SIGNATAIRES>
+  <TP>
+    <CONTENU/>
+  </TP>
+
+  <ABRO>
+    <CONTENU/>
+  </ABRO>
+  <RECT>
+    <CONTENU/>
+  </RECT>
+  <SM>
+    <CONTENU/>
+  </SM>
+
+</TEXTE_VERSION>

@@ -1,0 +1,123 @@
+﻿@model List<Splayce.JORF.Business.LienAction>
+
+@{
+    string currentText = string.Empty;
+
+    foreach (Splayce.JORF.Business.LienAction item in Model)
+    {
+        if (currentText != item.IdTexteSujet)
+        {
+            currentText = item.IdTexteSujet;
+
+
+
+            List<Splayce.JORF.Business.LienAction> codeListInsertion = (from p in Model
+                                                                        where p.IdTexteSujet == item.IdTexteSujet
+                                                                        && p.TypeAction == "CREE"
+                                                                        select p).ToList();
+
+            List<Splayce.JORF.Business.LienAction> codeListAbrogation = (from p in Model
+                                                                         where p.IdTexteSujet == item.IdTexteSujet
+                                                                         && p.TypeAction == "ABROGE"
+                                                                         select p).ToList();
+
+            List<Splayce.JORF.Business.LienAction> codeListModifie = (from p in Model
+                                                                      where p.IdTexteSujet == item.IdTexteSujet
+                                                                      && p.TypeAction == "MODIFIE"
+                                                                      select p).ToList();
+
+
+            if (codeListAbrogation.Count != 0 && codeListInsertion.Count != 0 && codeListModifie.Count != 0)
+            {
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+
+                               <h4>@item.TexteSujet</h4>
+                            </div>
+                            <div class="panel-body">
+                                @{
+                if (codeListInsertion.Count != 0)
+                {
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-plus"></i> INSERTION
+                        </div>
+
+                        <div class="panel-body">
+                            @{
+                    foreach (Splayce.JORF.Business.LienAction a in codeListInsertion)
+                    {
+                        <div class="panel-body">
+                            <strong>@Html.Raw("Article " + a.ArticleSujet)</strong> @Html.Raw("cr&eacute;&eacute; par ")
+                            <a style="text-align:right" href="@System.Configuration.ConfigurationManager.AppSettings["SITEUrl"]/Search/Details?jorfID=@a.IdTextModificateur">@a.TextModificateur</a>
+                        </div>
+                    }
+                            }
+                        </div>
+                    </div>
+                }
+                                }
+
+                                @{
+                if (codeListModifie.Count != 0)
+                {
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-pencil"></i> MODIFICATION
+                        </div>
+
+                        <div class="panel-body">
+                            @{
+                    foreach (Splayce.JORF.Business.LienAction a in codeListModifie)
+                    {
+                        <div class="panel-body">
+                            <strong>@Html.Raw("Article " + a.ArticleSujet)</strong> @Html.Raw("modifi&eacute; par ")
+                            <a style="text-align:right" href="@System.Configuration.ConfigurationManager.AppSettings["SITEUrl"]/Search/Details?jorfID=@a.IdTextModificateur">@a.TextModificateur</a>
+                           </div>
+                            }
+                            }
+                        </div>
+
+
+
+                    </div>
+                }
+                                }
+
+
+
+                                @{
+                if (codeListAbrogation.Count != 0)
+                {
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-minus"></i> ABROGATION
+                        </div>
+
+                        <div class="panel-body">
+                            @{
+                    foreach (Splayce.JORF.Business.LienAction a in codeListAbrogation)
+                    {
+                        <div class="panel-body">
+                            <strong>@Html.Raw("Article " + a.ArticleSujet)</strong> @Html.Raw("abrog&eacute; par ")
+                            <a style="text-align:right" href="@System.Configuration.ConfigurationManager.AppSettings["SITEUrl"]/Search/Details?jorfID=@a.IdTextModificateur">@a.TextModificateur</a>
+                        </div>
+                    }
+                            }
+                        </div>
+                        
+
+
+                    </div>
+                }
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    }
+}

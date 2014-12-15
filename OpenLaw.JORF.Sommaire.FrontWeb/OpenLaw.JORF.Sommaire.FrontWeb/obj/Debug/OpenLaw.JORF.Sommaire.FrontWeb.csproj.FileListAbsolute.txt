@@ -1,0 +1,118 @@
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll.config
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Net.Http.Formatting.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Helpers.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.WebHost.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Mvc.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Razor.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.csprojResolveAssemblyReference.cache
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.dll
+c:\users\damien\documents\visual studio 2013\Projects\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll.config
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.xml
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Net.Http.Formatting.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Helpers.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.WebHost.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Mvc.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Razor.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Business.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Parser.dll
+\\psf\Home\Desktop\OpenLaw.JORF.Sommaire.FrontWeb\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Search.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll.config
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Business.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Parser.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Splayce.JORF.Search.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\Newtonsoft.Json.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Helpers.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Mvc.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.Razor.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\obj\Debug\OpenLaw.JORF.Sommaire.FrontWeb.pdb
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Extensions.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Primitives.dll
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Extensions.xml
+C:\Users\Damien\Desktop\Jorf V0\Jorf V0\OpenLaw.JORF.Sommaire.FrontWeb\bin\System.Net.Http.Primitives.xml

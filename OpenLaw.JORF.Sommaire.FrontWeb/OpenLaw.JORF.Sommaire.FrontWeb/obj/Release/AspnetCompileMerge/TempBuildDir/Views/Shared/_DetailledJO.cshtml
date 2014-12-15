@@ -1,0 +1,13 @@
+﻿@model List<Splayce.JORF.Business.LienAction>
+@{
+    List<Splayce.JORF.Business.LienAction> codeList = Model.FindAll(x => x.Nature == "CODE" && x.TypeAction != "CITATION").Distinct().ToList();
+    @Html.Partial("~/Views/Shared/_DetailledJOPartial.cshtml", codeList)
+    List<Splayce.JORF.Business.LienAction> decretList = Model.FindAll(x => x.Nature == "DECRET" && x.TypeAction != "CITATION").Distinct().ToList();
+    @Html.Partial("~/Views/Shared/_DetailledJOPartial.cshtml", decretList)
+
+    List<Splayce.JORF.Business.LienAction> loiList = Model.FindAll(x => x.Nature == "LOI" && x.TypeAction != "CITATION").Distinct().ToList();
+    @Html.Partial("~/Views/Shared/_DetailledJOPartial.cshtml", loiList)
+    List<Splayce.JORF.Business.LienAction> arreteList = Model.FindAll(x => x.Nature == "ARRETE" && x.TypeAction != "CITATION").Distinct().ToList();
+    @Html.Partial("~/Views/Shared/_DetailledJOPartial.cshtml", arreteList)
+    
+    }

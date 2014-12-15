@@ -1,0 +1,11 @@
+﻿@model List<Splayce.JORF.Business.JORFText>
+@{
+    foreach (Splayce.JORF.Business.JORFText item in Model)
+    {
+        @Html.Partial("~/Views/Shared/_ListText.cshtml", item)
+   
+    }
+}
+
+<h2>_List</h2>
+

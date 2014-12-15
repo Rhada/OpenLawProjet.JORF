@@ -1,0 +1,27 @@
+﻿@model Splayce.JORF.Business.JORFText
+<div class="panel panel-default">
+    <div class="panel-heading panel-heading-color" style="color:black;background-color:white">
+     
+        <i>@System.Text.RegularExpressions.Regex.Replace(Model.AutoriteEmettrice, "^(.{200}).+", "$1...")</i>
+    </div>
+    <div class="panel-body" style="color:gray">
+        @Html.ActionLink(Model.TitreFull, "Details", new { jorfID = Model.IdText })
+    </div>
+
+    <div class="panel-footer" style="background-color:white">
+        <div class=" row">
+            <div class="col-md-7" title="@Model.AutoriteEmettrice">
+                @Model.TotalArticles article(s)
+             
+            </div>
+            
+            <div class="col-md-5" style="text-align:right">
+                <a class="btn btn-default" href="@Model.UrlPdf">Fac-similé</a>
+                <a class="btn btn-default" href="@Model.UrlRTF">RTF</a>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+

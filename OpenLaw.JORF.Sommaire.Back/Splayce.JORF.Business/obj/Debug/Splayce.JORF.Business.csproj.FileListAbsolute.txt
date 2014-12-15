@@ -1,0 +1,10 @@
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\bin\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\bin\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\bin\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\bin\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.csprojResolveAssemblyReference.cache
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Business\obj\Debug\Splayce.JORF.Business.csprojResolveAssemblyReference.cache

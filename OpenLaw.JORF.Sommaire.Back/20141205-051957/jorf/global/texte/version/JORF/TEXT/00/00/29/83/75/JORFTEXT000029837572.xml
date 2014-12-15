@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000029837572</ID>
+<ID_ELI>http://www.legifrance.gouv.fr/eli/decret/2014/12/3/JUSB1424714D/jo/texte</ID_ELI>
+<ELI_ALIAS>
+<ID_ELI_ALIAS>http://www.legifrance.gouv.fr/eli/decret/2014/12/3/2014-1443/jo/texte</ID_ELI_ALIAS>
+</ELI_ALIAS>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/29/83/75/JORFTEXT000029837572.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000029837572</CID>
+<NUM>2014-1443</NUM>
+<NUM_SEQUENCE>23</NUM_SEQUENCE>
+<NOR>JUSB1424714D</NOR>
+<DATE_PUBLI>2014-12-05</DATE_PUBLI>
+<DATE_TEXTE>2014-12-03</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0281 du 5 décembre 2014</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>20293</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>20294</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>DÉCRET n°2014-1443 du 3 décembre 2014</TITRE>
+<TITREFULL>Décret n° 2014-1443 du 3 décembre 2014 modifiant le décret n° 82-1120 du 23 décembre 1982 fixant la liste et le ressort des juridictions compétentes pour connaître des infractions en matière militaire et de sûreté de l'Etat</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE>Ministère de la justice</MINISTERE>
+<MCS_TXT/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000518314" datesignatexte="1982-12-23" id="JORFTEXT000000518314" naturetexte="DECRET" nortexte="" num="" numtexte="82-1120" sens="source" typelien="CITATION">Décret n° 82-1120 du 23 décembre 1982 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028338825" datesignatexte="2013-12-18" id="JORFTEXT000028338825" naturetexte="LOI" nortexte="DEFX1317084L" num="" numtexte="2013-1168" sens="source" typelien="CITATION">LOI n°2013-1168  du 18 décembre 2013 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577441" naturetexte="CODE" nortexte="" num="697" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 697 (M)</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Publics concernés : militaires, justiciables et professionnels.<br/>Objet : modification de la liste des juridictions spécialisées compétentes en matière de crimes et de délits commis par les militaires dans l'exercice du service et en matière d'infractions contre les intérêts fondamentaux de la nation en temps de paix.<br/>Entrée en vigueur : le texte entre en vigueur le 1er janvier 2015.<br/>Notice : le présent décret porte application de l'article 697 du code de procédure pénale, modifié par la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale. Il fixe le siège et la compétence territoriale de certaines juridictions pour connaître des crimes et des délits commis par les militaires dans l'exercice du service ainsi que des infractions en matière de trahison, d'espionnage et d'atteintes à la défense nationale.<br/>Références : les textes modifiés par le présent décret peuvent être consultés, dans leur rédaction issue de cette modification, sur le site Légifrance (http://www.legifrance.gouv.fr).<br/>Le Premier ministre,<br/>Sur le rapport de la garde des sceaux, ministre de la justice, et du ministre de la défense,<br/>Vu le code de procédure pénale, notamment ses articles 697, 697-1 et 702 ;<br/>Vu le décret n° 82-1120 du 23 décembre 1982 modifié fixant la liste et le ressort des juridictions compétentes pour connaître des infractions en matière militaire et de sûreté de l'Etat ;<br/>Vu le comité technique spécial de service placé auprès du directeur des services judiciaires en date du 2 juillet 2014,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 3 décembre 2014.</p>
+</div>
+<div align="left">
+<p>Manuel Valls</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>La garde des sceaux, ministre de la justice,</p>
+<p>Christiane Taubira</p>
+</div>
+<div align="left">
+<p>Le ministre de la défense,</p>
+<p>Jean-Yves Le Drian</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+</TEXTE_VERSION>

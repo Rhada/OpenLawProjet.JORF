@@ -1,0 +1,134 @@
+﻿@model List<Splayce.JORF.Business.Facet>
+
+
+@using (Html.BeginForm("JoModification", "Search", FormMethod.Post))
+{
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Modification du JO
+                </div>
+                <div class="panel-body">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fa fa-search-plus"></i>
+                        <span class="hidden-xs">Voir</span>
+                    </button>
+                </div>
+            </div>
+}
+
+@foreach (Splayce.JORF.Business.Facet item in Model)
+{
+    <div class="panel panel-default">
+
+        @if (item.TechnicalName == "DateJO")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-calendar"></i> @item.Name
+            </div>
+
+        }
+        else if (item.TechnicalName == "Authority")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-institution"></i> @item.Name
+            </div>
+
+        }
+        else if (item.TechnicalName == "Nature")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-file-text"></i> @item.Name
+            </div>
+
+        }
+        else if (item.TechnicalName == "Tag")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-tag"></i> @item.Name
+            </div>
+
+        }
+        else if (item.TechnicalName == "Rubrique")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-folder"></i> @item.Name
+            </div>
+
+        }
+        else if (item.TechnicalName == "Type")
+        {
+            <div class="panel-heading" style="color:black">
+                <i class="fa fa-edit"></i> @item.Name
+            </div>
+
+        }
+        else
+        {
+            <div class="panel-heading" style="color:black">
+                @item.Name
+            </div>
+        }
+        <div class="list-group">
+            @{
+        int maxitem = 0;
+        bool mustaddbutton = false;
+
+            }
+            @foreach (Splayce.JORF.Business.FacetValue fvalue in item.Values)
+            {
+                maxitem = maxitem + 1;
+                if (maxitem < 4)
+                {
+                    <a href="~/Search/SearchFacet?facetname=@item.TechnicalName&facetvalue=@fvalue.Value&keyword=@ViewData["keyword"]" class="list-group-item list-group-item-facet">
+                        @fvalue.Value
+                        <span class="badge">
+                            @fvalue.Count
+                        </span>
+                    </a>
+
+                }
+                else
+                {
+                    mustaddbutton = true;
+                    <a href="~/Search/SearchFacet?facetname=@item.TechnicalName&facetvalue=@fvalue.Value&keyword=@ViewData["keyword"]" class="list-group-item list-group-item-facet hidden">
+                        @fvalue.Value
+                        <span class="badge">
+                            @fvalue.Count
+                        </span>
+                    </a>
+
+                }
+            }
+            @{
+    if (mustaddbutton)
+    {
+
+        <a class="list-group-item show_more plus">+</a>
+                <a class="list-group-item show_more minus hidden">-</a>
+
+
+    }
+            }
+
+        </div>
+    </div>
+}
+<script>
+    $(document).ready(function () {
+        $(".show_more").on("click", function (e) {
+            var currentElement = $(this);
+            var listGroup = currentElement.parent(".list-group");
+
+            if (currentElement.text() == "+") {
+                listGroup.children("a.list-group-item-facet").removeClass("hidden");
+                listGroup.find(".show_more.minus").removeClass("hidden");
+                listGroup.find(".show_more.plus").addClass("hidden");
+            } else {
+                listGroup.children("a.list-group-item-facet:gt(2)").addClass("hidden");
+                listGroup.find(".show_more.plus").removeClass("hidden");
+                listGroup.find(".show_more.minus").addClass("hidden");
+            }
+        });
+    });
+</script>
+

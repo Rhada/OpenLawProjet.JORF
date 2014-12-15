@@ -1,0 +1,14 @@
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Parser.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Parser.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.csprojResolveAssemblyReference.cache
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Parser.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Parser.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Business.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\bin\Debug\Splayce.JORF.Business.pdb
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.csprojResolveAssemblyReference.cache
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.dll
+C:\Users\polysok\Documents\Visual Studio 2013\Projects\LucenePoc\LucenePoc\ConsoleApplication1\Splayce.JORF.Parser\obj\Debug\Splayce.JORF.Parser.pdb

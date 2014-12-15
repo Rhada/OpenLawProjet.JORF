@@ -1,0 +1,22 @@
+﻿@model Splayce.JORF.Business.JORFText
+<div class="panel panel-default">
+    
+    <div class="panel-body">
+        @Html.Raw(@Model.TexteIntegral)
+        @foreach (Splayce.JORF.Business.JORFArticle item in Model.Articles)
+        {
+            @Html.Partial("~/Views/Shared/_DetailledResultArticles.cshtml", item)
+        }
+        @foreach (Splayce.JORF.Business.Section item in Model.Sections)
+        {
+            @Html.Partial("~/Views/Shared/_DetailledResultSections.cshtml", item)
+        }
+        @Html.Raw(Model.Signataires)
+
+    </div>
+
+
+
+</div>
+
+

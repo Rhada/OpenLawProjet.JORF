@@ -1,0 +1,21 @@
+﻿@model Splayce.JORF.Business.Section
+
+@foreach (Splayce.JORF.Business.Section item in Model.Sections)
+{
+    @Html.Partial("~/Views/Shared/_DetailledResultSections.cshtml", item);
+}
+<div class="panel panel-default">
+   
+        <div class="panel-heading">
+            @Model.Title
+        </div>
+    <div class="panel-body">
+        @foreach (Splayce.JORF.Business.JORFArticle item in Model.Articles)
+        {
+            @Html.Partial("~/Views/Shared/_DetailledResultArticles.cshtml", item);
+        }
+    </div>
+   
+</div>
+
+

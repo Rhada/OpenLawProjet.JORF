@@ -1,0 +1,12 @@
+﻿@model Splayce.JORF.Business.JORFArticle
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            @Model.Nature @Model.NumeroArticle
+           
+        </div>
+        <div class="panel-body">
+            @Html.Raw(Model.Texte)
+        </div>
+    </div>

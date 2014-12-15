@@ -1,0 +1,54 @@
+﻿@model String
+<script src="~/Scripts/jquery-2.1.1.min.js"></script>
+<script src="~/Scripts/typeahead.bundle.min.js"></script>
+
+
+@using (Html.BeginForm("Search", "Search", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="input-group" id="bloodhound">
+                <input type="text" class="typeahead form-control" name="search" placeholder="Recherchez par nature, autorité, thème, mot-clef libre, etc.">
+                <span class="input-group-btn">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fa fa-search"></i>
+                        <span class="hidden-xs">Rechercher</span>
+                    </button>
+                </span>
+            </div><!-- /input-group -->
+        </div>
+
+    </div>
+}
+
+    <script type="text/javascript">
+
+       var states = @Html.Raw(Model);
+
+  
+
+
+        // constructs the suggestion engine
+        var states = new Bloodhound({
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            // `states` is an array of state names defined in "The Basics"
+            local: $.map(states, function (state) { return { value: state }; })
+        });
+
+        // kicks off the loading/processing of `local` and `prefetch`
+        states.initialize();
+
+        $('#bloodhound .typeahead').typeahead({
+            hint: true,
+            highlight: true,
+            minLength: 1
+        },
+        {
+            name: 'states',
+            displayKey: 'value',
+            // `ttAdapter` wraps the suggestion engine in an adapter that
+            // is compatible with the typeahead jQuery plugin
+            source: states.ttAdapter()
+        });
+    </script>
